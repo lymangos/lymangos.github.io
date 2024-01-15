@@ -355,7 +355,7 @@ blockquote p {
   top: 22px;
   height: 30px;
   width: 30px;
-  background-color: #1172bd;
+  background-color: #7a8288;
   color: #fff;
   cursor: pointer;
   padding: 0px 0.3rem;
@@ -461,6 +461,7 @@ blockquote p {
 .page article p,
 .page article li {
   font-size: 1.8rem;
+  font-family: cursive;
 }
 .page article a {
   color: #494e52;
